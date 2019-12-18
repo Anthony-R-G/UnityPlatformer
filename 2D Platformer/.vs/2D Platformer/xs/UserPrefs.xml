@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFollow2D.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController2D.cs" Line="13" Column="32" />
+      <File FileName="Assets/AlternatePlayerController.cs" />
+      <File FileName="Assets/Scripts/CameraFollow2D.cs" Line="41" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2D Platformer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraFollow2D.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="37d92852-6e5a-46f4-a31c-acb823f63fc5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
